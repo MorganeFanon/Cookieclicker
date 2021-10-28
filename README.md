@@ -34,6 +34,11 @@ The programming languages used for the project were HTML, CSS and JavaScript;
 
 The different tasks consisted in back-end and front-end manipulations. We all three did some front-end and back-end. 
 
+Some Websites we used:
+* www.lasonotheque.org 
+* www.dinosoria.com
+* www.mixkit.com
+
 ### Why not a clear separation of the tasks? 
 Example add a cursor to the project:
 If you want to add an object like a cursor only in front-end(HTML and CSS), you also have to add the back-end part in JavaScript at the same time. 
@@ -46,6 +51,12 @@ We decided to divide our window in two parts by creating two "div" in HTML.
 
 ## Authors of the project
 
+<<<<<<< HEAD
 [Morgane Fanon](https://github.com/MorganeFanon) \
 [Gizem Onur](https://github.com/GizemOnur) \
 [Anne Jungers](https://github.com/annejungers) \
+=======
+[Morgane Fanon](https://github.com/MorganeFanon)
+[Gizem Onur](https://github.com/GizemOnur)
+[Anne Jungers](https://github.com/annejungers)
+>>>>>>> afe4acc44ef83717cc6aa6753a1eb2c7bd93ce89
