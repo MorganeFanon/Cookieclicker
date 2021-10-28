@@ -49,7 +49,9 @@ font-family: 'Open Sans', sans-serif;
 .element-1 {
   background-color: blue;
   width: fit-content;
+  display: inline-block;
 }
+
 .element-2 {
   background-color: brown;
   width: fit-content;
