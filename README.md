@@ -27,7 +27,7 @@ Our cookie Clicker has the following functionalities:
 
 
 ## Duration
-The duration of the challenge was 4 days. The work has been performed remotely but also on location (1 day).
+The duration of the challenge was 4 days. The work has been performed **remotely** but also **on location** (1 day).
 
 ## How
 The programming languages used for the project were HTML, CSS and JavaScript;
@@ -40,14 +40,12 @@ If you want to add an object like a cursor only in front-end(HTML and CSS), you 
 
 ### Split screen
 We decided to divide our window in two parts by creating two "div" in HTML.
-<div class="split left"></div>
-<div class="split right"></div>
-
-
+`<div class="split left"></div>`
+`<div class="split right"></div>`
 
 
 ## Authors of the project
 
-[Morgane Fanon](https://github.com/MorganeFanon)
-[Gizem Onur](https://github.com/GizemOnur)
-[Anne Jungers](https://github.com/annejungers)
+[Morgane Fanon](https://github.com/MorganeFanon) \
+[Gizem Onur](https://github.com/GizemOnur) \
+[Anne Jungers](https://github.com/annejungers) \
