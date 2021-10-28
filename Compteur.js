@@ -5,6 +5,13 @@
 function update() {
    document.getElementById("text").value = cookiecount;
    document.title = cookiecount + " Cookies";
+
+   document.getElementById("ammountMultiplier").innerHTML = "Multiplier Upgrade x" + (multiplier+1);
+   document.getElementById("ammountMultiplier2").innerHTML = "x" + (multiplier+1);
+   document.getElementById("costMultiplier").innerHTML = ((multiplier+1) *10) + "Cookies";
+   document.getElementById("currentMultiplier").innerHTML = "Your Current Multiplier is x" + (multiplier);
+
+
    document.getElementById("amountAutoClick").innerHTML="You Own "+autoClick+" Auto Clickers";
    document.getElementById("costAutoClick").innerHTML = ((autoClick+1) * 12) + " Cookies";
 
@@ -20,8 +27,8 @@ var autoClick = 0;
 var farms = 0;
 
 function timer() {
-   cookiecount = cookiecount + autoClick;
-   cookiecount = cookiecount + farms*2;
+   cookiecount = cookiecount + autoClick*multiplier;
+   cookiecount = cookiecount + farms*2*multiplier;
    update()
 }
 setInterval(timer, 1000)
@@ -35,6 +42,7 @@ function save() {
    localStorage.setItem("cookiecount", cookiecount);
    localStorage.setItem("autoClick", autoClick);
    localStorage.setItem("farms", farms);
+   localStorage.setItem("multiplier", multiplier);
 
 }
 
@@ -47,6 +55,8 @@ function load() {
    autoClick = parseInt(autoClick);
    farms = localStorage.getItem("farms");
    farms = parseInt(farms);
+   multiplier = localStorage.getItem("multiplier");
+   multiplier = parseInt(multiplier);
    update()
 }
 
@@ -65,7 +75,14 @@ function buyFarm() {
       update()
    }
 }
+function buyMultiplier() {
+  if (cookiecount >= ((multiplier+1) * 10)) {
+      cookiecount = cookiecount - ((multiplier+1) * 10);
+      multiplier = multiplier +1;
+      update()
 
+  }
+}
 /*!
  * Bats Cursor.js
  * - 90's cursors collection
