@@ -38,6 +38,9 @@ Some Websites we used:
 * www.dinosoria.com
 * www.mixkit.com
 
+Youtube ressources:
+[Create a Cookie Clicker Site](https://www.youtube.com/watch?v=uUgOBe_wb6E&t=690s)
+
 ### Why not a clear separation of the tasks? 
 Example: to add a "bat" **cursor** to the project:
 If you want to add an object like a cursor only in front-end (HTML and CSS), you also have to add the back-end part in JavaScript at the same time. 
