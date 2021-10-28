@@ -44,7 +44,7 @@ Example add a cursor to the project:
 If you want to add an object like a cursor only in front-end(HTML and CSS), you also have to add the back-end part in JavaScript at the same time. 
 
 ### Split screen
-We decided to divide our window in two parts by creating two **div** in HTML.
+We decided to divide our window in two parts by creating two **div** in HTML.\git 
 `<div class="split left"></div>` \
 `<div class="split right"></div>`
 
