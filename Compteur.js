@@ -1,4 +1,16 @@
 
+var audio = document.getElementById("audio");
+function play() {
+   audio.play();
+}
+var cris = document.getElementById("Cris");
+function playScream() {
+   cris.play();
+}
+var beretta = document.getElementById("Beretta");
+function playFire() {
+   beretta.play();
+}
 
 
 
