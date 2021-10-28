@@ -51,12 +51,6 @@ We decided to divide our window in two parts by creating two "div" in HTML.
 
 ## Authors of the project
 
-<<<<<<< HEAD
 [Morgane Fanon](https://github.com/MorganeFanon) \
 [Gizem Onur](https://github.com/GizemOnur) \
 [Anne Jungers](https://github.com/annejungers) \
-=======
-[Morgane Fanon](https://github.com/MorganeFanon)
-[Gizem Onur](https://github.com/GizemOnur)
-[Anne Jungers](https://github.com/annejungers)
->>>>>>> afe4acc44ef83717cc6aa6753a1eb2c7bd93ce89
