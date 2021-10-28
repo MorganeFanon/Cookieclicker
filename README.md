@@ -1,6 +1,6 @@
 # Cookie-Clicker
 
-# Welcome to our cookies fabric!!!! :jack_o_lantern: :ghost:
+# Welcome to our cookies fabric!!!! :jack_o_lantern: :ghost: :cookie:
 
 <img src="https://www.dish-works.com/wp-content/uploads/Ghost-cookies.gif" alt="drawing" width="900" height="600"/>
 ![Cookie gif](https://www.dish-works.com/wp-content/uploads/Ghost-cookies.gif)
@@ -14,11 +14,16 @@ Our work has been made in 4 days.
 ## What our Cookie Clicker does
 Our cookie Clicker has the following functionalities:
 
-* A Multiplier 
-    + to multiply by two the number of cookies per second
-* An AutoClicker
-* A button to buy a Cookie fabric
-*
+*  **A Multiplier** 
+    + To multiply by two the number of cookies per second.
+    + The cost of a multiplier is 20 cookies.
+* **An AutoClicker**
+    + To be able to buy more cookies.
+    + The cost of a multiplier is 12 cookies.
+* **A button to buy a Cookie fabric**
+    + To enable the purchase of a cookie factory.
+    + The cost of a cookie factory is 15 cookies.
+
 
 
 ## Duration
