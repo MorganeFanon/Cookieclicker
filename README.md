@@ -52,9 +52,12 @@ We decided to divide our window in two parts by creating two **div** in HTML. \
 `<div class="split left"></div>` \
 `<div class="split right"></div>`
 
-
 ## Authors of the project
 
 [Morgane Fanon](https://github.com/MorganeFanon) \
 [Gizem Onur](https://github.com/GizemOnur) \
 [Anne Jungers](https://github.com/annejungers)
+
+## Link to our project
+
+[](https://annejungers.github.io/Cookieclicker/)
