@@ -3,7 +3,7 @@
 # Welcome to our cookies fabric!!!! :jack_o_lantern: :ghost: :cookie:
 
 <img src="https://www.dish-works.com/wp-content/uploads/Ghost-cookies.gif" alt="drawing" width="700" height="600"/>
-![Cookie gif](https://www.dish-works.com/wp-content/uploads/Ghost-cookies.gif)
+
 
 ## Introduction
 In this project, we were asked by Becode to make a Cookie Clicker in teams of three persons.
@@ -45,7 +45,7 @@ Youtube ressources:
 Example: to add a "bat" **cursor** to the project:
 If you want to add an object like a cursor only in front-end (HTML and CSS), you also have to add the back-end part in JavaScript at the same time. 
 <img src="https://ih1.redbubble.net/image.1418530429.9945/poster,840x830,f8f8f8-pad,1000x1000,f8f8f8.jpg" alt="drawing" width="900" height="600"/>
-![Bat](https://ih1.redbubble.net/image.1418530429.9945/poster,840x830,f8f8f8-pad,1000x1000,f8f8f8.jpg)
+
 
 ### Split screen
 We decided to divide our window in two parts by creating two **div** in HTML. \
