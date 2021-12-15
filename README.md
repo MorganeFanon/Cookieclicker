@@ -60,4 +60,4 @@ We decided to divide our window in two parts by creating two **div** in HTML. \
 
 ## Link to our project
 
-[](https://annejungers.github.io/Cookieclicker/)
+[Link](https://annejungers.github.io/Cookieclicker/)
